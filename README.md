@@ -1,10 +1,9 @@
-<img width="941" height="881" alt="640206392-91fd9d76-e4b4-4d40-9406-d3faee589a01" src="https://github.com/user-attachments/assets/70696bf5-9965-4158-a9a5-d6ddc3e6a5cd" />
-<img width="941" height="881" alt="640206392-91fd9d76-e4b4-4d40-9406-d3faee589a01" src="https://github.com/user-attachments/assets/d8f86547-216a-4435-9220-b954a696f68e" />
+
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230018
+# Name:ravi teja royal
+# Date:28-8-2026
 
 
 # AIM:
